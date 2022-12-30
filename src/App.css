@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(160, 155, 155);
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+#container {
+}
+span {
+  font-size: 30px;
+  font-weight: 600;
+}
+.btn {
+  margin-top: 40vh;
+  margin-left: 25%;
+  background-color: orange;
+  /* align-items: center; */
+  height: 100px;
+  width: 200px;
+  border-radius: 10px;
+  border: none;
+
+  text-align: center;
+}
+
+.input {
+  font-size: xx-large;
+  background-color: none;
+}
